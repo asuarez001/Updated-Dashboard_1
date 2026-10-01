@@ -1,0 +1,8 @@
+{
+  "name": "GLP-1 Pulse: Deficit, Shot & Fat Loss Tracker",
+  "description": "Comprehensive GLP-1 companion tracking weekly injections with 30-day pharmacokinetic ebbs and flows curves, conversational Gemini AI clinical companion, and mathematical pure fat loss calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
